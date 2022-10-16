@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">happybirthdayApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="departmantName">
+        <item>       </item>
+        <item>Yönetici</item>
+        <item>Android Developer</item>
+        <item>Ios Developer</item>
+        <item>Backend Developer</item>
+        <item>Frontend Developer</item>
+        <item>İnsan Kaynakları</item>
+    </string-array>
+
+    <string name="search">
+        <item>Search Barr</item>
+    </string>
+
+</resources>
